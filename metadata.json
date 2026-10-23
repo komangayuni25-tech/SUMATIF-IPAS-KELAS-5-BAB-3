@@ -1,0 +1,8 @@
+{
+  "name": "Tes Sumatif IPAS Kelas 5 Bab III",
+  "description": "Aplikasi Asesmen Sumatif IPAS Kelas 5 Bab III (Majulah Daerahku: Memenuhi Kebutuhan Hidup, Kegiatan Ekonomi Daerah, Pelaku Ekonomi Bijak) SD Negeri 3 Loloan Timur dengan 35 PG, 5 PGK Kategori, matriks respon butir, dan ekspor laporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
